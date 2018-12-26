@@ -20,7 +20,7 @@
 * 연말 계획 : 스키장 in 하이원
 ---
 # 김미진
-<img width="250" src="https://user-images.githubusercontent.com/45954038/50434041-215eae00-091f-11e9-9d9a-2ed0d9fb1b5a.jpg">
+<img width="225" src="https://user-images.githubusercontent.com/45954038/50434041-215eae00-091f-11e9-9d9a-2ed0d9fb1b5a.jpg">
 
 * 별명 : Genie
 
