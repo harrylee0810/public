@@ -1,6 +1,6 @@
 ---
 
-.slide: data-background-image="https://user-images.githubusercontent.com/45954049/50436559-e9a93380-0929-11e9-8b9d-23c8140ab1bc.jpg" data-background-size="100% 100%" data-background-position="center" data-background=" " data-background-repeat=" " data-background-transition="none" 
+background-image: url('https://user-images.githubusercontent.com/45954049/50436559-e9a93380-0929-11e9-8b9d-23c8140ab1bc.jpg');
 
 <span class="menu-title" style="display: none">List Content Templates</span>
 
