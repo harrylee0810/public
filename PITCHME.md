@@ -40,4 +40,3 @@
 
 ## <span style="color: orange">감사합니다.</span><span><br></span>
 
-<i class="fa fa-arrow-down text-black" aria-hidden="true"> </i>
