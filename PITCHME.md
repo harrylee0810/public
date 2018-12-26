@@ -4,7 +4,7 @@
 
 <span class="menu-title" style="display: none">List Content Templates</span>
 
-## <span style="color: black">BOTTOM UP<br>구미 1반</span>
+## <span style="color: orange">BOTTOM UP<>/span><span><br>구미 1반</span>
 
 <i class="fa fa-arrow-down text-black" aria-hidden="true"> </i>
 
