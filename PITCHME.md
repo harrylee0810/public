@@ -20,7 +20,7 @@
 * 연말 계획 : 스키장 in 하이원
 ---
 # 김미진
-<img width="250" src="https://user-images.githubusercontent.com/45954038/50433787-bd87b580-091d-11e9-9940-b271321603b3.jpg">
+<img width="250" height = "300" src="https://user-images.githubusercontent.com/45954038/50433787-bd87b580-091d-11e9-9940-b271321603b3.jpg">
 * 별명 : Genie
 
 * 성격 : 긍정적 & 정이 많음
