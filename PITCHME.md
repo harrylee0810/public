@@ -1,8 +1,7 @@
 ---
-# 슬라이드 1
-안녕하세요, 반갑습니다.
+# Bottom Up
 ---
-# 이 현수   <img width="200" src="https://user-images.githubusercontent.com/45954038/50432619-70541580-0916-11e9-8de9-6191459986ac.jpg">
+# 이 현수   <img width="250" src="https://user-images.githubusercontent.com/45954038/50432619-70541580-0916-11e9-8de9-6191459986ac.jpg">
 
 * Guihub : harrylee0810
 
@@ -11,7 +10,6 @@
 * 성격 : 꼼꼼한 & 분석적인 & 사려가 깊은
 
 * 연말 계획 : 대구 스파랜드에서 힐링
-
 ---
 # 강대현
 그럼 이만... 
