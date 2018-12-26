@@ -50,7 +50,7 @@ Concise ordered list-items template.
 <div class="north-west">
 The Agenda [ Step-by-Step ]
 </div>
-<div class="south-East list-content-concise span-100">
+<div class="south-East list-content-concise span-50">
 <ol class=" ">
 <li class="fragment  ">이름 : 이현수</li>
 <li class="fragment  ">별명 : 해리</li>
