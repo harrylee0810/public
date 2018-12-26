@@ -1,7 +1,5 @@
 ---
 
-background-image: url('https://user-images.githubusercontent.com/45954049/50436559-e9a93380-0929-11e9-8b9d-23c8140ab1bc.jpg');
-
 <span class="menu-title" style="display: none">List Content Templates</span>
 
 ## <span style="color: orange">BOTTOM UP</span><span><br>구미 1반</span>
