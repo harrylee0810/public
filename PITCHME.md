@@ -32,7 +32,12 @@
 <img width="150" src="https://user-images.githubusercontent.com/45954049/50436270-65a27c00-0928-11e9-9d2f-72b80d3a17b2.jpg">
 * 별명 : Genie
 
-* 성격 : 긍정적 &  & 정이 많음
+* 성격 : 긍정적 &  정이 많음
 
 * 연말 계획 : 망년회 with.friends
 ---
+<span class="menu-title" style="display: none">List Content Templates</span>
+
+## <span style="color: orange">감사합니다.</span><span><br></span>
+
+<i class="fa fa-arrow-down text-black" aria-hidden="true"> </i>
